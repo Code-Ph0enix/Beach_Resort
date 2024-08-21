@@ -17,10 +17,7 @@
 - `Admin Panel` - React.js, Redux.js, Ant Design & Tailwind CSS
 - `Frontend` - Next.js, Redux.js & Ant Design
 
-##  Live Preview
 
-- Admin Panel - [`🚀 Click to Visit`][admin-panel-link]
-- Frontend (Client Side) - [`🚀 Click to Visit`][frontend-link]
 
 <!-- my social media links -->
 
